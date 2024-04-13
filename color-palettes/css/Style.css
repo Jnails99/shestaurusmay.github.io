@@ -1,0 +1,52 @@
+#head1 {
+    font-family: cursive;
+    text-align: center;
+}
+#cl {
+    background-color: #3bff00;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+    padding: 24px;
+}
+#c2 {
+    background-color: #00ccff;
+    color: #111;
+    font-family: cursive;
+    text-align: center;
+    padding: 24px;
+}
+#c3 {
+    background-color: #ff8123;
+    color: #111;
+    font-family: cursive;
+    text-align: center;
+    padding: 24px;
+}
+
+/* color palette 2*/
+#head2 {
+    font-family: fantasy;
+    text-align: center;
+}
+#c4 {
+    background-color: #845ec2;
+    color: #111;
+    font-family: fantasy;
+    text-align: center;
+    padding: 24px;
+}
+#c5 {
+    background-color: #4b4453;
+    color: #111;
+    font-family: fantasy;
+    text-align: center;
+    padding: 24px;
+}
+#c6 {
+    background-color: #b0a8b9;
+    color: #111;
+    font-family: fantasy;
+    text-align: center;
+    padding: 24px;
+}
